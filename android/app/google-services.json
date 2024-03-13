@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "717136529222",
+    "project_id": "mnemo-53581",
+    "storage_bucket": "mnemo-53581.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717136529222:android:c8350555461a4bda13c747",
+        "android_client_info": {
+          "package_name": "com.example.mnemo_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPOW-MyFo12OUkh5pKf8BuOGAPSq8U3rM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
